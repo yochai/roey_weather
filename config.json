@@ -1,0 +1,4 @@
+{
+    "weather_api_key": "0f3c5088abde4274a5d49e889418b090",
+    "weather_api_url": "https://api.weatherbit.io/v2.0/forecast/daily"
+}
