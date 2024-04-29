@@ -38,7 +38,6 @@ def get_weather_data(location):
 
     if response.status_code == 200:
         return response.json()                                  # Parse and return the JSON data from the response
-
     else:
         return None
 
